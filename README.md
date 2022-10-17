@@ -33,13 +33,12 @@
     <img src="https://img.shields.io/badge/Oauth2-black?style=for-the-badge&logo=1password&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=orange"/></a>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/></a>
-    <img src ="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Sequelize&logoColor=white" /></a><br/>
-    <img src="https://img.shields.io/badge/lombok-CA0404?style=for-the-badge&logo=flask&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Sequelize&logoColor=white" /></a><br/>
+<img src="https://img.shields.io/badge/lombok-CA0404?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a><br/>
 <br/>
-<!--3번째줄-->
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws
 &logoColor=white"/></a>
   <img src="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds
 &logoColor=white"/></a>
@@ -47,7 +46,6 @@
 &logoColor=white"/></a>
   <img src="https://img.shields.io/badge/awss3-569A31?style=for-the-badge&logo=amazons3
 &logoColor=white"/></a><br/>
-
   <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> 
 <img src ="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br/>
