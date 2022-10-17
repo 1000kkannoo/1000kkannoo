@@ -41,11 +41,11 @@
 <!--3번째줄-->
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws
 &logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws rds-527FFF?style=for-the-badge&logo=amazonrds
+  <img src="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds
 &logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2
+  <img src="https://img.shields.io/badge/awsec2-FF9900?style=for-the-badge&logo=amazonec2
 &logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=amazons3
+  <img src="https://img.shields.io/badge/awss3-569A31?style=for-the-badge&logo=amazons3
 &logoColor=white"/><br/>
 
   <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
