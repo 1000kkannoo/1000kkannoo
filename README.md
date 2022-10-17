@@ -43,11 +43,8 @@
 <img src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> 
 <img src ="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br/>
 
-<img src ="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws
-&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds
-&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src ="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
   <img src="https://img.shields.io/badge/awsec2-FF9900?style=for-the-badge&logo=amazonec2
 &logoColor=white"/></a>
   <img src="https://img.shields.io/badge/awss3-569A31?style=for-the-badge&logo=amazons3
