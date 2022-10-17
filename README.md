@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a><br/>
 <br/>
 <!--3번째줄-->
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS
 &logoColor=white"/></a>
   <img src="https://img.shields.io/badge/awsrds-527FFF?style=for-the-badge&logo=amazonrds
 &logoColor=white"/></a>
