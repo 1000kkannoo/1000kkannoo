@@ -45,13 +45,17 @@
 <img src ="https://img.shields.io/badge/aws s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /><br/>
   <img src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> 
-<img src ="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br/>
+<img src ="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src ="https://img.shields.io/badge/h2 database-5C0D34?style=for-the-badge&logo=databricks&logoColor=white" />
+<br/>
 <br/>
 <!--4번째줄-->
 <br/>
 <img src ="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src ="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src ="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
+<img src ="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src ="https://img.shields.io/badge/git kraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
+<br/>
 <br/>
 <br/>
 <!--5번째줄-->
