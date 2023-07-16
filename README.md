@@ -6,8 +6,6 @@
     서버 개발이 취미가 된 개발자 🤔
   </p>
   <br />
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000kkannoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   <br />
   <h2>🛠 My Tech Stack 👨‍💻</h2>
